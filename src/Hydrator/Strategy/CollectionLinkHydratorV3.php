@@ -6,7 +6,7 @@
  * @license   https://github.com/laminas-api-tools/api-tools-doctrine-querybuilder/blob/master/LICENSE.md New BSD License
  */
 
-namespace Laminas\ApiTools\Doctrine\QueryBuilder\Hydrator\Strategy;
+namespace Doctrine\Laminas\Hydrator\Strategy;
 
 use DoctrineModule\Stdlib\Hydrator\Strategy\AbstractCollectionStrategy;
 use Laminas\ApiTools\Hal\Link\Link;
