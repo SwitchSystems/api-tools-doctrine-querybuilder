@@ -12,7 +12,7 @@ use DateTime;
 use Db\Entity;
 use Db\Entity\Album;
 use Db\Entity\Artist;
-use Doctrine\Common\Persistence\ObjectManager;
+use Doctrine\Persistence\ObjectManager;
 use Doctrine\ORM\Tools\SchemaTool;
 use LaminasTest\ApiTools\Doctrine\QueryBuilder\TestCase;
 
